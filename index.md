@@ -2,6 +2,8 @@
 title: Taegu Kang
 ---
 
+<img src="IMG_0838.jpg" width="200" align="right">
+
 # Taegu Kang
 
 E-mail: taeguk2 AT illinois DOT edu  
