@@ -19,6 +19,6 @@ Department of Mathematics, University of Illinois, Urbana-Champaign
 - Ph.D. in Mathematics, University of Illinois, Urbana-Champaign (2024-).
 - B.S. in Mathematics, Seoul National University (2022-2024).
 
-### Preprints:
+### Research:
 
-- P. Dey, T. Kang, Fluctuations for the Sherrington--Kirkpatrick spin glass model near the critical temperature (https://arxiv.org/abs/2603.05636), 2026.
+- P. Dey, T. Kang, [Fluctuations for the Sherrington-Kirkpatrick spin glass model near the critical temperature](https://arxiv.org/abs/2603.05636), Preprint.
