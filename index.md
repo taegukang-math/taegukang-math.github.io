@@ -2,7 +2,7 @@
 title: Taegu Kang
 ---
 
-<img src="IMG_0838.jpg" width="200" align="right">
+<img src="IMG_0838.jpeg" width="200" align="right">
 
 # Taegu Kang
 
