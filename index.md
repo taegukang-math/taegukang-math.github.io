@@ -4,8 +4,6 @@ title: Taegu Kang
 
 # Taegu Kang
 
----
-
 E-mail: taeguk2 AT illinois DOT edu  
 Department of Mathematics, University of Illinois, Urbana-Champaign
 
