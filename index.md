@@ -21,4 +21,4 @@ Department of Mathematics, University of Illinois, Urbana-Champaign
 
 ### Research:
 
-- [P. Dey](https://psdey.web.illinois.edu), T. Kang, [Fluctuations for the Sherrington-Kirkpatrick spin glass model near the critical temperature](https://arxiv.org/abs/2603.05636), Preprint.
+- [P. S. Dey](https://psdey.web.illinois.edu), T. Kang, [Fluctuations for the Sherrington-Kirkpatrick spin glass model near the critical temperature](https://arxiv.org/abs/2603.05636), Preprint.
