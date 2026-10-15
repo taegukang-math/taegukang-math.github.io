@@ -7,7 +7,7 @@ title: Taegu Kang
 # Taegu Kang
 
 E-mail: taeguk2 AT illinois DOT edu  
-Department of Mathematics, University of Illinois, Urbana-Champaign
+Department of Mathematics, University of Illinois Urbana-Champaign
 
 ### About:
 
@@ -21,5 +21,6 @@ Department of Mathematics, University of Illinois, Urbana-Champaign
 
 ### Research:
 
+- [P. S. Dey](https://psdey.web.illinois.edu), T. Kang, [Fluctuations in the Potts spin glass model at high temperature](https://arxiv.org/abs/2610.19356), Preprint.
 - [P. S. Dey](https://psdey.web.illinois.edu), T. Kang, [Fluctuations for the Sherrington-Kirkpatrick spin glass model near the critical temperature](https://arxiv.org/abs/2603.05636), Preprint.
 - [P. S. Dey](https://psdey.web.illinois.edu), T. Kang, [Fluctuations of the free energy of the Sherrington-Kirkpatrick model with ferromagnetic interaction](https://arxiv.org/abs/2608.25362), Preprint.
